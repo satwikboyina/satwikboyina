@@ -46,7 +46,22 @@ Let’s connect to discuss how my skills and expertise can contribute to buildin
 - **Tools**: Tableau, Power BI, Matplotlib, Seaborn
 
 ---
+## 📚 Academic Projects  
 
+### [Hexoskin Vest Data Integration Framework for Enhanced Human Activity Recognition](https://github.com/YourUsername/Hexoskin-Vest-Data-Integration)  
+**Duration**: Mar 2024 - May 2024  
+**Institution**: Southern Illinois University, Carbondale  
+- Developed a data integration framework for the Hexoskin Smart Vest to support **Human Activity Recognition (HAR)**.  
+- Specialized in **real-time data collection** and integration with machine learning models to enhance predictive insights.  
+- Proposed improvements like **data cleaning, feature engineering**, and **EHR compatibility** for proactive healthcare solutions.  
+
+### [Implementation and Simulation of Energy Efficient Clustering and Routing Protocol in WSN using MATLAB](https://github.com/YourUsername/WSN-EECRP-MATLAB)  
+**Duration**: Feb 2021 - Apr 2021  
+**Institution**: Saveetha Engineering College  
+- Designed and implemented an **Energy Efficient Clustering and Routing Protocol (EECRP)** for Wireless Sensor Networks.  
+- Simulated the protocol in MATLAB and achieved significant improvements in **network lifespan** and **energy efficiency** compared to the LEACH algorithm.  
+
+---
 
 ## 📊 GitHub Stats
 
