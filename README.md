@@ -62,7 +62,38 @@ Let’s connect to discuss how my skills and expertise can contribute to buildin
 - Simulated the protocol in MATLAB and achieved significant improvements in **network lifespan** and **energy efficiency** compared to the LEACH algorithm.  
 
 ---
+## 🚀 Personal Projects
 
+### **Smart Income Tax Fraud Detection Using Machine Learning**
+[Repository Link](#) (https://github.com/satwikboyina/Corporate-Tax-Fraud-Detection)
+- Developed a machine learning system using boosting algorithms to detect fraudulent income tax filings, enhancing accuracy in results.
+- Automated data preprocessing, feature extraction, and model evaluation to improve sensitivity and precision.
+- **Tools & Technologies**: Python, Anaconda, XGBoost.
+
+### **Sentiment Analysis of Restaurant Reviews**
+[Repository Link](#) (https://github.com/satwikboyina/Sentiment_Analysis)
+- Built an end-to-end sentiment analysis pipeline to categorize restaurant reviews and extract actionable insights for an improved customer experience.
+- Utilized NLP techniques, topic modeling, and machine learning models like LSTM to identify sentiments and common issues related to food quality, hygiene, and staff behavior.
+- **Tools & Technologies**: Python, NLTK, spaCy, scikit-learn, Matplotlib, Seaborn, LSTM, Pandas, NumPy.
+
+### **Food Delivery Time Prediction**
+[Repository Link](#) (https://github.com/satwikboyina/Food-Delivery)
+- Designed a machine learning pipeline to predict food delivery times, leveraging historical data to optimize customer satisfaction and resource allocation.
+- Engineered delivery distance features using the Haversine formula and trained regression models such as Linear, Lasso, Ridge, and ElasticNet for high prediction accuracy.
+- **Tools & Technologies**: Python, scikit-learn, Pandas, NumPy, StandardScaler, OrdinalEncoder.
+
+### **Stock Market Prediction Using Machine Learning**
+[Repository Link](#) (https://github.com/satwikboyina/Stock-Market-Prediction)
+- Developed a Stock Market Prediction system leveraging advanced algorithms like Gradient Boosting and LightGBM.
+- Analyzed historical stock market data to predict trends, enabling informed investment decisions.
+- Created a modular workflow for data preprocessing, feature engineering, and model evaluation.
+- **Tools & Technologies**: Python, LightGBM, Gradient Boosting, Pandas, NumPy.
+
+---
+## 📜 Certifications
+
+- **AWS Certified Data Engineer - Associate**
+---
 ## 📊 GitHub Stats
 
 ![Satwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
