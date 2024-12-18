@@ -11,7 +11,7 @@ As a passionate Data Engineer with over 3 years of experience, I specialize in c
 
 ✨ Key Achievements:
  • 📈 Boosting Efficiency: Enhanced data processing capabilities by 40% at FIS Global through optimized pipelines.
- • 💰 Reducing Costs: Deployed AWS tools (S3, Lambda, Databricks) to lower infrastructure expenses by 25%.
+ • 💰 Reducing Costs: Deployed AWS tools (S3, Lambda,) to lower infrastructure expenses by 25%.
  • ⚡ Improving Performance: Spearheaded data migration to Snowflake, achieving a 50% increase in query speed using Python, SQL, and R.
  • 🔧 Automating Workflows: At Mindtree, automated pipelines using Apache Airflow and streamlined ETL processes with Talend, resulting in reduced latency and improved scalability.
 
