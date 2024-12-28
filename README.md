@@ -93,6 +93,7 @@ Let’s connect to discuss how my skills and expertise can contribute to buildin
 ## 📜 Certifications
 
 - **AWS Certified Data Engineer - Associate**
+- **AWS Certified Solutions Architect - Associate**
 ---
 ## 📊 GitHub Stats
 
