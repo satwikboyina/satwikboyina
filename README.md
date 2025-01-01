@@ -27,23 +27,49 @@ I am driven by the challenge of leveraging data to solve complex problems, unloc
 
 Let’s connect to discuss how my skills and expertise can contribute to building data-driven solutions for your organization. 🤝
 
-## 🔧 Skills & Expertise
+ # 🛠️ Skills & Tools
 
-### Programming
-- **Languages**: Python, SQL, R, SAS
-- **Frameworks & Tools**: NumPy, Pandas, Scikit-learn, TensorFlow
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Data Engineering
-- **Big Data Ecosystem**: Hadoop, Hive, Apache Spark, MapReduce, Snowflake
-- **ETL Tools**: SSIS, Talend, Apache NiFi, Apache Airflow
-- **Databases**: MySQL, PostgreSQL, MongoDB, DynamoDB, HBase
+### Big Data Tools
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### Cloud & DevOps
-- **Cloud**: AWS (S3, EC2, Lambda, Redshift), Azure, GCP
-- **DevOps**: Git, GitHub, GitLab, CI/CD Pipelines
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Visualization
-- **Tools**: Tableau, Power BI, Matplotlib, Seaborn
+### ETL & Workflow Tools
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-003366?style=for-the-badge&logo=apache-nifi&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+### Data Analysis & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Visualization Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+---
+
+
 
 ---
 ## 📚 Academic Projects  
