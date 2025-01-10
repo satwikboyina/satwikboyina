@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-As a passionate Data Engineer with over 3 years of experience, I specialize in crafting and optimizing scalable data solutions that transform raw datasets into meaningful, actionable insights. My expertise spans state-of-the-art Big Data technologies like Hadoop, Spark, and Hive, alongside cloud platforms such as AWS and Azure. These skills enable me to help businesses streamline operations, reduce costs, and achieve measurable results.
+As a passionate Data Engineer with over 5 years of experience, I specialize in crafting and optimizing scalable data solutions that transform raw datasets into meaningful, actionable insights. My expertise spans state-of-the-art Big Data technologies like Hadoop, Spark, and Hive, alongside cloud platforms such as AWS and Azure. These skills enable me to help businesses streamline operations, reduce costs, and achieve measurable results.
 
 ✨ Key Achievements:
  • 📈 Boosting Efficiency: Enhanced data processing capabilities by 40% at FIS Global through optimized pipelines.
@@ -25,7 +25,6 @@ As a passionate Data Engineer with over 3 years of experience, I specialize in c
 🌟 What Drives Me:
 I am driven by the challenge of leveraging data to solve complex problems, unlock growth, and drive innovation. Thriving in fast-paced, collaborative environments, I use Agile methodologies to deliver impactful solutions that make a real difference.
 
-Let’s connect to discuss how my skills and expertise can contribute to building data-driven solutions for your organization. 🤝
 
  # 🛠️ Skills & Tools
 
