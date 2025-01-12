@@ -1,7 +1,7 @@
 # Hi there, I'm Satwik Boyina 👋
 
 ⚙️ Data Engineer | Transforming Complex Data Into Actionable Insights 📊 | Big Data (Hadoop, Spark) 🛠️ | Cloud (AWS, Azure) ☁️ | ETL & Analytics Expert 🔄 |
-📍 Carbondale, IL | 📧 [satwikb2702@gmail.com](mailto:satwikb2702@gmail.com)
+📍 Richmond, IL | 📧 [satwikb2702@gmail.com](mailto:satwikb2702@gmail.com)
 
 ---
 
