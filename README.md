@@ -1,3 +1,6 @@
+# Hi there, I'm Satwik Boyina 👋
+# 💫 About Me:
+I am a passionate Data Engineer with more than four years of experience in Data Warehousing, Data Migration, Designing and Implementing ETL pipelines, Data Ingestion and Creating Dashboards with various modern Big Data and Cloud Tools and Technologies. Coming with a strong academic background with a Master's Degree in Computer Science, I thrive to assure scalability for data pipelines, implement machine learning pipelines, automation of workflows, and provide solutions on cloud platforms such as AWS and Azure.
 # 🛠️ Skills & Tools
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
