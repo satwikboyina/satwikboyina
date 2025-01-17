@@ -1,30 +1,6 @@
 # Hi there, I'm Satwik Boyina 👋
 
-⚙️ Data Engineer | Transforming Complex Data Into Actionable Insights 📊 | Big Data (Hadoop, Spark) 🛠️ | Cloud (AWS, Azure) ☁️ | ETL & Analytics Expert 🔄 |
-📍 Richmond, VA | 📧 [satwikb2702@gmail.com](mailto:satwikb2702@gmail.com)
-
----
-
-## 👨‍💻 About Me
-
-As a passionate Data Engineer with over 5 years of experience, I specialize in crafting and optimizing scalable data solutions that transform raw datasets into meaningful, actionable insights. My expertise spans state-of-the-art Big Data technologies like Hadoop, Spark, and Hive, alongside cloud platforms such as AWS and Azure. These skills enable me to help businesses streamline operations, reduce costs, and achieve measurable results.
-
-✨ Key Achievements:
- • 📈 Boosting Efficiency: Enhanced data processing capabilities by 40% at FIS Global through optimized pipelines.
- • 💰 Reducing Costs: Deployed AWS tools (S3, Lambda,) to lower infrastructure expenses by 25%.
- • ⚡ Improving Performance: Spearheaded data migration to Snowflake, achieving a 50% increase in query speed using Python, SQL, and R.
- • 🔧 Automating Workflows: At Mindtree, automated pipelines using Apache Airflow and streamlined ETL processes with Talend, resulting in reduced latency and improved scalability.
-
-🔑 Core Competencies:
- • Big Data Ecosystems: Hadoop, Spark, Hive, Pig, Databricks, Snowflake
- • ETL & Data Integration: Talend, Apache NiFi, SSIS, Informatica
- • Cloud Platforms: AWS (S3, EC2, Lambda), Azure
- • Programming Languages: Python, SQL, R
- • Data Visualization Tools: Tableau, Power BI
-
-🌟 What Drives Me:
-I am driven by the challenge of leveraging data to solve complex problems, unlock growth, and drive innovation. Thriving in fast-paced, collaborative environments, I use Agile methodologies to deliver impactful solutions that make a real difference.
-
+I am a passionate Data Engineer with more than four years of experience in Data Warehousing, Data Migration, Designing and Implementing ETL pipelines, Data Ingestion and Creating Dashboards with various modern Big Data and Cloud Tools and Technologies. Coming with a strong academic background with a Master's Degree in Computer Science, I thrive to assure scalability for data pipelines, implement machine learning pipelines, automation of workflows, and provide solutions on cloud platforms such as AWS and Azure.
 
  # 🛠️ Skills & Tools
 
