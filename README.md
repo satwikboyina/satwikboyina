@@ -75,3 +75,9 @@ I am a passionate Data Engineer with more than four years of experience in Data 
 - **AWS Certified Data Engineer - Associate**
 - **AWS Certified Solutions Architect - Associate**
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Satwikboyina&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Satwikboyina&theme=dark&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Satwikboyina&icon=0&color=0)](https://visitcount.itsvg.in)
